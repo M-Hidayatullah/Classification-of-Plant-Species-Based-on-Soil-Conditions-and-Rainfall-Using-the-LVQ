@@ -1,0 +1,44 @@
+{% extends 'base.html' %}
+{% set active_page = "tentang" %}
+
+{% block head %}
+  <title>Tentang Saran Tani</title>
+{% endblock %}
+
+{% block body %}
+<div class="container">
+  {% include 'include/navbar.html' %}
+</div>
+
+
+
+<div id="team">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-12 text-center">
+        <h3>Tentang SaranTani</h3>
+      </div>
+      <p class="text-center">Saran Tani memberikan solusi dari permasalahan pertanian anda.</p>
+    </div>
+  </div>
+</div>
+
+<div id="benefits">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <img src="{{ url_for('static', filename='img/sawah.jpg') }}" alt="benefit" class="img-fluid img-thumbnail">
+      </div>
+      <div class="col-md-6 mt-5 info">
+        <h5>SAVE MORE TIME</h5>
+        <h3>And Boost Productivity</h3>
+        <p>Tunggu apalagi?
+          Segera temukan tanaman terbaik untuk pertanian Anda</p>
+        <a href="{{ url_for('rekomendasi') }}" class="btn btn-primary">Coba Sekarang</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% include 'include/footer.html' %}
+{% endblock %}
