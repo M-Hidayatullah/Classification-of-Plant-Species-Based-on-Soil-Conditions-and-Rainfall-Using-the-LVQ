@@ -1,18 +1,14 @@
-# klasifikasi tanaman lvq
+### Classification of Plant Species Based on Soil Conditions and Rainfall Using the Learning Vector Quantization (LVQ) Method
 # Author
-```
-Nama :M.Hidayatullah
-Nim  :1901010263
-S1 Ilmu Komputer
-Rekayasa Perangkat Lunak
 
-```
+M.Hidayatullah
 
-dikembangkan untuk membantu  mengoptimalkan sumber daya lahan yang  miliki untuk memberikan hasil yang maksimal pada tanaman pertanian.
+### Keywords
+Classification, Plants, Neural Networks, Machine Learning
 
-## Instalasi
+### Instalation
 
-Install dengan pip:
+Install with pip:
 
 ```
 $ pip install -r requirements.txt
