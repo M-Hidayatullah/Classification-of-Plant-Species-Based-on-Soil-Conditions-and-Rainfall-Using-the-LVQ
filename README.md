@@ -3,11 +3,10 @@
 
 M.Hidayatullah
 
-### Article
-![image](https://github.com/M-Hidayatullah/Classification-of-Plant-Species-Based-on-Soil-Conditions-and-Rainfall-Using-the-LVQ/assets/56921742/1b81d8b5-8eff-47d3-927d-1ec0e6ff2fb2)
-
 ### Web
 ![image](https://github.com/M-Hidayatullah/Classification-of-Plant-Species-Based-on-Soil-Conditions-and-Rainfall-Using-the-LVQ/assets/56921742/afab27ba-7684-40aa-a8f0-fbf075fbc175)
+![image](https://github.com/M-Hidayatullah/Classification-of-Plant-Species-Based-on-Soil-Conditions-and-Rainfall-Using-the-LVQ/assets/56921742/d70a5e4c-d70e-4445-b077-4c574cabeb1c)
+
 
 
 ### Keywords
